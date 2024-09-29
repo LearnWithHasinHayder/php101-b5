@@ -1,0 +1,7 @@
+https://windows.php.net/download
+
+https://visualstudio.microsoft.com/downloads/#microsoft-visual-c-redistributable-for-visual-studio-2022
+
+https://www.php.net/manual/en/install.windows.php
+
+https://help.learnosity.com/hc/en-us/articles/360000757757-Environment-Setup-Guide-PHP
